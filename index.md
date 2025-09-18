@@ -1,6 +1,7 @@
 ---
 layout: home
-limit: 10
+excerpt: "A personal log of digital wanderings."
 show_excerpts: true
+paginate: true
 entries_layout: list
 ---
